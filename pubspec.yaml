@@ -1,0 +1,43 @@
+name: uni_rides_v3
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core Dependencies
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.1
+  cloud_firestore: ^6.0.0
+
+  # Phone Number Input & Validation
+  intl_phone_number_input: ^0.7.4
+
+  # HTTP for Backend API Calls
+  http: ^1.5.0
+
+  # Local Encryption & Hashing
+  crypto: ^3.0.6
+  
+  # For web-based JS interop if you plan to use it
+  js: 0.6.7
+
+  emailjs: ^4.0.0
+
+  # UI & Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
