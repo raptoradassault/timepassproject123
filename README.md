@@ -24,11 +24,6 @@ Your ideal file structure----->
 
 <img width="666" height="692" alt="image" src="https://github.com/user-attachments/assets/b35aac5f-38b4-4ca5-9aae-c445badabd37" />
 
-Use this test account to log in ------>
-email
-"kkkkkkkk@vit.edu"
-Password
-123456789
-only authentication work has been completed the rest work is still under progress🙃
+
 
 
