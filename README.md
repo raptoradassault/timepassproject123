@@ -22,36 +22,7 @@ Dependencies for flutter ---------->
 
 Your ideal file structure----->
 
-uni-rides-v3/                     # Root project directory
-├── frontend/                     # Flutter app directory
-│   ├── lib/                      # Flutter source code
-│   │   ├── main.dart             # App entry point
-│   │   ├── login.dart            # Login page
-│   │   ├── signup-with-otp.dart  # Registration page
-│   │   ├── forgot-password.dart  # Password reset page
-│   │   ├── homepage.dart         # Dashboard
-│   │   
-│   ├── test/
-│   │   └── widget_test.dart      # Flutter tests
-│   ├── .vscode/
-│   │   └── launch.json           # VS Code configurations
-│   ├── pubspec.yaml              # Flutter dependencies
-│   ├── pubspec.lock              # Locked versions
-│   └── README.md                 # Frontend documentation
-│
-├── backend/                      # Node.js backend directory
-│   ├── server.js                 # Express server
-│   ├── models/                   # MongoDB models
-│   │   ├── User.js
-│   │   ├── Ride.js
-│   │   ├── RideRequest.js
-│   │   ├── SignupOTP.js
-│   │   └── PasswordReset.js
-│   ├── .env                      # Environment variables
-│   ├── package.json              # Backend dependencies
-│   └── README.md                 # Backend documentation
-│
-└── README.md                     # Project-wide documentation
+<img width="666" height="692" alt="image" src="https://github.com/user-attachments/assets/b35aac5f-38b4-4ca5-9aae-c445badabd37" />
 
 Use this test account to log in ------>
 email
@@ -59,4 +30,5 @@ email
 Password
 123456789
 only authentication work has been completed the rest work is still under progress🙃
+
 
