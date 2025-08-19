@@ -90,6 +90,9 @@ Before you begin, ensure you have the following installed:
 
 
 **Your ideal file structure**
+  
+  
+  
   <img width="666" height="692" alt="image" src="https://github.com/user-attachments/assets/b35aac5f-38b4-4ca5-9aae-c445badabd37" />
 
 
